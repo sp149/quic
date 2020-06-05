@@ -1,0 +1,32 @@
+[
+  "ï46;HIÂ\u0007_¼â$ŽkMU",
+  [
+    [
+      "QUIC.Spec.Base.lbytes",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "equation_Prims.eqtype",
+        "equation_Prims.nat", "function_token_typing_Prims.int",
+        "haseqTm_refine_542f9d4f129664613f2483a6c88bc7c2",
+        "refinement_interpretation_Tm_refine_414d0a9f578ab0048252f8c8f552b99f"
+      ],
+      0,
+      "5fb4db21d6715b84149b8c0dd785f354"
+    ],
+    [
+      "QUIC.Spec.Base.bitfield",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "equation_Prims.eqtype",
+        "refinement_interpretation_Tm_refine_414d0a9f578ab0048252f8c8f552b99f",
+        "typing_FStar.UInt8.t"
+      ],
+      0,
+      "4bf482879c21eae6d4aae349d9b5cfab"
+    ]
+  ]
+]
